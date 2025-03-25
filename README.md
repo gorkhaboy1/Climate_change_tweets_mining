@@ -1,2 +1,2 @@
-# Covid_tweets_mining
-This project analyzes climate change tweets using NLP to clean text, remove noise, and extract insights. Sentiment analysis classifies tweets as positive, neutral, or negative, while thematic analysis with LDA identifies key discussion topics. 
+# Climate_change_tweets_mining
+In this project, we analyze tweets on climate change to identify common themes and sentiment trends. We use natural language processing (NLP) techniques to preprocess textual data, remove noise ,and extract important insights. Sentiment analysis classifies tweets as good, neutral, or negative, offering a summary of public sentiment. Thematic analysis utilizing Latent Dirichlet Allocation (LDA) identifies major subjects and repeating themes in the talks. Visualizations search as bar charts and word clouds aid comprehension, making this study a thorough examination ofthe  climate change debate on social media.
